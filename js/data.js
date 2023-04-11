@@ -47,6 +47,7 @@ const qnaList = [
       { answer: 'a. 미국 국채', score: 2 },
       { answer: 'b. 코스피', score: 3 },
     ]
+  }
 ]
 
 const infoList = [
