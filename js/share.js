@@ -1,6 +1,6 @@
-const url = 'https://dev-dain.github.io/10-things-test';
-const title = '[성향테스트] 나의 금융 MBTI ';
-const hash = '%2310_things_test %233분성향테스트 %23성향테스트 ';
+const url = 'https://lymin0109.github.io/financial_MBTI_test';
+const title = '[성향테스트] 나의 투자 MBTI ';
+const hash = '%2310_things_test %233투자성향테스트 %23성향테스트 ';
 
 const fb = () => {
   window.open('https://www.facebook.com/sharer/sharer.php?u='
