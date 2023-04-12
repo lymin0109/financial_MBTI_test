@@ -1,6 +1,6 @@
 const url = 'https://lymin0109.github.io/financial_MBTI_test';
 const title = '[성향테스트] 나의 투자 MBTI ';
-const hash = '%2310_things_test %233투자성향테스트 %23성향테스트 ';
+const hash = '%23투자MBTI %233투자성향테스트 %23성향테스트 ';
 
 const fb = () => {
   window.open('https://www.facebook.com/sharer/sharer.php?u='
