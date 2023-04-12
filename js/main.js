@@ -9,10 +9,6 @@ const ENDPOINT = 10;
 const select = [];
 let qIdx = -1;
 
-document.querySelector('img').addEventListener('click', function() {
-  document.querySelector('#qna').classList.add('show');
-});
-
 const goTo = (dest) => {
   let elem;
   let elemTop;
