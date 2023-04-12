@@ -42,31 +42,31 @@ const qnaList = [
     ]
   },
   {
-    q: '7. 둘 중 하나만 투자 가능하다면?<br><img src="img/image001.jpg" alt="image001">',
+    q: '7. 둘 중 하나만 투자 가능하다면?<br><br><img src="img/image001.jpg" alt="image001">',
     a: [
-      { answer: 'a', score: 0 },
-      { answer: 'b', score: 5 }
+      { answer: 'a', score: 0, score2: 0 },
+      { answer: 'b', score: 5, score2: 1 }
     ]
   },
   {
-    q: '8. 둘 중 하나만 투자 가능하다면?<br><img src="img/image001.jpg" alt="image001">',
+    q: '8. 둘 중 하나만 투자 가능하다면?<br><br><img src="img/image001.jpg" alt="image001">',
     a: [
-      { answer: 'a', score: 0 },
-      { answer: 'b', score: 5 }
+      { answer: 'a', score: 0, score2: 0 },
+      { answer: 'b', score: 5, score2: 1 }
     ]
   },
   {
-    q: '9. 둘 중 하나만 투자 가능하다면?<br><img src="img/image001.jpg" alt="image001">',
+    q: '9. 둘 중 하나만 투자 가능하다면?<br><br><img src="img/image001.jpg" alt="image001">',
     a: [
-      { answer: 'a', score: 0 },
-      { answer: 'b', score: 5 }
+      { answer: 'a', score: 0, score2: 0 },
+      { answer: 'b', score: 5, score2: 1 }
     ]
   },
   {
-    q: '10. 둘 중 하나만 투자 가능하다면?<br><img src="img/image001.jpg" alt="image001">',
+    q: '10. 둘 중 하나만 투자 가능하다면?<br><br><img src="img/image001.jpg" alt="image001">',
     a: [
-      { answer: 'a', score: 0 },
-      { answer: 'b', score: 5 }
+      { answer: 'a', score: 0, score2: 0 },
+      { answer: 'b', score: 5, score2: 1 }
     ]
   }
 ]
