@@ -38,6 +38,8 @@
 .q img {
   float: right;
   max-width: 100%;
+  width: 1280px;
+  height: 720px;
 }
 .answer {
   width: 100%;
@@ -85,6 +87,8 @@
   .q img {
   float: right;
   max-width: 100%;
+  width: 1280px;
+  height: 720px;
 }
   .answer {
     margin: 0 10%;
@@ -136,6 +140,8 @@
   .q img {
   float: right;
   max-width: 100%;
+  width: 1280px;
+  height: 720px;
 }
   .answer {
     margin: 0;
