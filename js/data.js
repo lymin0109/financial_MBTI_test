@@ -44,8 +44,8 @@ const qnaList = [
   {
     q: '7. 둘 중 하나만 투자 가능하다면?',
     a: [
-      { answer: 'a. 미국 국채', score: 2 },
-      { answer: 'b. 코스피', score: 3 }
+      { answer: 'a. 미국 국채', score: 0 },
+      { answer: 'b. 코스피', score: 5 }
     ]
   },
   {
