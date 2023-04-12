@@ -34,6 +34,7 @@
   font-weight: bolder;
   animation: fade-in 0.5s ease-in-out 0.3s forwards;
   opacity: 0;
+  max-width: 720px;
 }
 .q img {
   float: right;
@@ -87,8 +88,6 @@
   .q img {
   float: right;
   max-width: 100%;
-  width: 1280px;
-  height: 720px;
 }
   .answer {
     margin: 0 10%;
@@ -140,8 +139,6 @@
   .q img {
   float: right;
   max-width: 100%;
-  width: 1280px;
-  height: 720px;
 }
   .answer {
     margin: 0;
