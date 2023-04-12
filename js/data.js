@@ -1,6 +1,6 @@
 const qnaList = [
   {
-    q: ['1. 둘 중 하나만 투자 가능하다면?', '<img src="img/image001.jpg" alt="image001">'],
+    q: '1. 둘 중 하나만 투자 가능하다면?',
     a: [
       { answer: 'a. 금', score: 0 },
       { answer: 'b. 도지코인', score: 5 }
@@ -42,31 +42,31 @@ const qnaList = [
     ]
   },
   {
-    q: '7. 둘 중 하나만 투자 가능하다면?',
+    q: ['7. 둘 중 하나만 투자 가능하다면?','<img src="img/image001.jpg" alt="image001">'],
     a: [
-      { answer: 'a. 미국 국채', score: 0 },
-      { answer: 'b. 코스피', score: 5 }
+      { answer: 'a, score: 0 },
+      { answer: 'b', score: 5 }
     ]
   },
   {
-    q: '8. 둘 중 하나만 투자 가능하다면?',
+    q: ['8. 둘 중 하나만 투자 가능하다면?','<img src="img/image001.jpg" alt="image001">'],
     a: [
-      { answer: 'a. 금', score: 0 },
-      { answer: 'b. 미국 국채', score: 5 }
+      { answer: 'a, score: 0 },
+      { answer: 'b', score: 5 }
     ]
   },
   {
-    q: '9. 둘 중 하나만 투자 가능하다면?',
+    q: ['9. 둘 중 하나만 투자 가능하다면?','<img src="img/image001.jpg" alt="image001">'],
     a: [
-      { answer: 'a. 미국 국채', score: 0 },
-      { answer: 'b. 나스닥', score: 5 }
+      { answer: 'a, score: 0 },
+      { answer: 'b', score: 5 }
     ]
   },
   {
-    q: '10. 둘 중 하나만 투자 가능하다면?',
+    q: ['10. 둘 중 하나만 투자 가능하다면?','<img src="img/image001.jpg" alt="image001">'],
     a: [
-      { answer: 'a. 금', score: 0 },
-      { answer: 'b. 비트코인', score: 5 }
+      { answer: 'a, score: 0 },
+      { answer: 'b', score: 5 }
     ]
   }
 ]
