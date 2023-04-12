@@ -82,6 +82,10 @@
     font-size: 32px;
     font-size: 2rem;
   }
+  .q img {
+  float: right;
+  max-width: 100%;
+}
   .answer {
     margin: 0 10%;
     width: 80%;
@@ -129,6 +133,10 @@
     font-size: 40px;
     font-size: 2.5rem;
   }
+  .q img {
+  float: right;
+  max-width: 100%;
+}
   .answer {
     margin: 0;
     width: 100%;
