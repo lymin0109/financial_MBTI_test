@@ -42,28 +42,28 @@ const qnaList = [
     ]
   },
   {
-    q: '7. 채권 투자시 둘 중 하나를 고르면?<br><br><img src="img/image001.jpg" alt="image001"><br><br><br><br><br><br><br><br>',
+    q: '7. 채권 투자시 둘 중 하나를 고르면?<br><br><img src="img/image001.jpg" alt="image001"><br><br><br><br><br><br><br><br><br><br>',
     a: [
       { answer: 'a', score: 0, score2: 0 },
       { answer: 'b', score: 5, score2: 1 }
     ]
   },
   {
-    q: '8. 채권 투자시 둘 중 하나를 고르면?<br><br><img src="img/image002.jpg" alt="image002"><br><br><br><br><br><br><br><br>',
+    q: '8. 채권 투자시 둘 중 하나를 고르면?<br><br><img src="img/image002.jpg" alt="image002"><br><br><br><br><br><br><br><br><br><br>',
     a: [
       { answer: 'a', score: 0, score2: 0 },
       { answer: 'b', score: 5, score2: 1 }
     ]
   },
   {
-    q: '9. 채권 투자시 둘 중 하나를 고르면?<br><br><img src="img/image003.jpg" alt="image003"><br><br><br><br><br><br><br><br>',
+    q: '9. 채권 투자시 둘 중 하나를 고르면?<br><br><img src="img/image003.jpg" alt="image003"><br><br><br><br><br><br><br><br><br><br>',
     a: [
       { answer: 'a', score: 0, score2: 0 },
       { answer: 'b', score: 5, score2: 1 }
     ]
   },
   {
-    q: '10. 채권 투자시 둘 중 하나를 고르면?<br><br><img src="img/image004.jpg" alt="image004"><br><br><br><br><br><br><br><br>',
+    q: '10. 채권 투자시 둘 중 하나를 고르면?<br><br><img src="img/image004.jpg" alt="image004"><br><br><br><br><br><br><br><br><br><br>',
     a: [
       { answer: 'a', score: 0, score2: 0 },
       { answer: 'b', score: 5, score2: 1 }
