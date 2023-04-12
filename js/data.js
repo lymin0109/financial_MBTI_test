@@ -86,7 +86,6 @@ const infoList = [
     name: '채권혼합형',
     desc: '60:40(채권:주식) 포트폴리오'
   },
-
   {
     from: 25,
     to: 30,
