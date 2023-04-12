@@ -4,11 +4,6 @@
   opacity: 0;
 }
 
-#qna.show {
-  display: block;
-  opacity: 1;
-}
-
 .status-bar {
   margin: 0 12.5% 20px;
   width: 75%;
