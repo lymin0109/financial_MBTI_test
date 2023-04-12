@@ -1,6 +1,6 @@
 const qnaList = [
   {
-    q: ['1. 둘 중 하나만 투자 가능하다면?', '<img src="img/Image001.jpg" alt="Image001001">'],
+    q: ['1. 둘 중 하나만 투자 가능하다면?', '<img src="img/Image001.jpg" alt="Image001">'],
     a: [
       { answer: 'a. 금', score: 0 },
       { answer: 'b. 도지코인', score: 5 }
