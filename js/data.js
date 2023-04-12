@@ -65,7 +65,6 @@ const qnaList = [
   {
     q: '10. 둘 중 하나만 투자 가능하다면?',
     a: [
-      {},
       { answer: 'a. 금', score: 0 },
       { answer: 'b. 비트코인', score: 5 }
     ]
