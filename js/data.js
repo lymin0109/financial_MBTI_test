@@ -49,21 +49,21 @@ const qnaList = [
     ]
   },
   {
-    q: '8. 둘 중 하나만 투자 가능하다면?<br><br><img src="img/image001.jpg" alt="image001">',
+    q: '8. 둘 중 하나만 투자 가능하다면?<br><br><img src="img/image002.jpg" alt="image002">',
     a: [
       { answer: 'a', score: 0, score2: 0 },
       { answer: 'b', score: 5, score2: 1 }
     ]
   },
   {
-    q: '9. 둘 중 하나만 투자 가능하다면?<br><br><img src="img/image001.jpg" alt="image001">',
+    q: '9. 둘 중 하나만 투자 가능하다면?<br><br><img src="img/image003.jpg" alt="image003">',
     a: [
       { answer: 'a', score: 0, score2: 0 },
       { answer: 'b', score: 5, score2: 1 }
     ]
   },
   {
-    q: '10. 둘 중 하나만 투자 가능하다면?<br><br><img src="img/image001.jpg" alt="image001">',
+    q: '10. 둘 중 하나만 투자 가능하다면?<br><br><img src="img/image004.jpg" alt="image004">',
     a: [
       { answer: 'a', score: 0, score2: 0 },
       { answer: 'b', score: 5, score2: 1 }
